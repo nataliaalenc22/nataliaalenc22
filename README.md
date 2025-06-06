@@ -39,7 +39,7 @@
    <img
             align = "left"
             alt = "stats"
-            width="200px"
+            height="200px"
             src="https://github-readme-stats.vercel.app/api?username=nataliaalenc22&show=reviews&theme=dark&locale=pt-br" /> 
 </p>
      
