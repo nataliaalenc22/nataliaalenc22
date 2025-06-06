@@ -35,7 +35,15 @@
           
           
 </p>
-     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)      
+<p>
+   <img
+            align = "left"
+            alt = "stats"
+            width="200px"
+            src="https://github-readme-stats.vercel.app/api?username=nataliaalenc22&show=reviews&theme=dark&locale=pt-br" /> 
+</p>
+     
+       
           
           
           
